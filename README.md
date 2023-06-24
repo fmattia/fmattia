@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://github.com/fmattia/fmattia/blob/main/gif.gif" alt="Gif" />
+    <img src="https://github.com/fmattia/fmattia/blob/main/gif.gif" alt="Gif" width="500px" />
 </p>
